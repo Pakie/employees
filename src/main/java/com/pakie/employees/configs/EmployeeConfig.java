@@ -1,10 +1,11 @@
-package com.pakie.employees.configs;
+//package com.pakie.employees.configs;
 
 import com.pakie.employees.domain.Employee;
 import com.pakie.employees.repositories.EmployeeRepository;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;
 
+/*
 
 @Component
 public class EmployeeConfig implements CommandLineRunner {
@@ -24,3 +25,4 @@ public class EmployeeConfig implements CommandLineRunner {
         employeeRepository.save(employee);
     }
 }
+*/
